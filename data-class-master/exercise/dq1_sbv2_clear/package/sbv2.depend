@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1723603087 source:c:\users\user\desktop\codeblock\data-class-master\exercise\dq1_sbv2\package\test_stack.cpp
+	<iostream>
+	<stack>
+	<assert.h>
+	"stack.h"
+	"student.h"
+
+1723603087 c:\users\user\desktop\codeblock\data-class-master\exercise\dq1_sbv2\package\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1723606959 c:\users\user\desktop\codeblock\data-class-master\exercise\dq1_sbv2\package\student.h
+	"stack.h"
+	<iostream>
+

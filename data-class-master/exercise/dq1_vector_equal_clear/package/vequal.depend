@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1723604699 source:c:\users\user\desktop\codeblock\data-class-master\exercise\dq1_vector_equal\package\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1723603089 c:\users\user\desktop\codeblock\data-class-master\exercise\dq1_vector_equal\package\vector.h
+	<stdexcept>
+	<iostream>
+
+1723604696 c:\users\user\desktop\codeblock\data-class-master\exercise\dq1_vector_equal\package\student.h
+	"vector.h"
+

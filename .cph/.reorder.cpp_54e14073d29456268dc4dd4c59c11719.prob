@@ -1,0 +1,1 @@
+{"name":"Local: reorder","url":"c:\\Users\\USER\\Desktop\\VScode\\C++\\reorder.cpp","tests":[{"id":1731816658620,"input":"5\naa\nbb\ncc\ndd\nee\n2\n2\n4\n0","output":"cc ee aa bb dd\ndd bb aa ee cc "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\VScode\\C++\\reorder.cpp","group":"local","local":true}

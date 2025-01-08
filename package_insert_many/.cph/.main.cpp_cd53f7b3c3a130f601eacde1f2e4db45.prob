@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"c:\\Users\\USER\\Desktop\\VScode\\C++\\package_insert_many\\main.cpp","tests":[{"id":1727411995983,"input":"u 1\nu 2\nu 3\nu 4\no\nm\np\nm\np\nq","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\VScode\\C++\\package_insert_many\\main.cpp","group":"local","local":true}

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1725417609 source:c:\users\user\desktop\vscode\c++\package_pair_gte\main.cpp
+	<stdexcept>
+	<iostream>
+	"pair.h"
+	"student.h"
+	<string>
+
+1725417609 c:\users\user\desktop\vscode\c++\package_pair_gte\pair.h
+	<iostream>
+	<assert.h>
+
+1725417922 c:\users\user\desktop\vscode\c++\package_pair_gte\student.h
+

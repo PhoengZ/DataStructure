@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"c:\\Users\\USER\\Desktop\\VScode\\C++\\kheap-student\\main.cpp","tests":[{"id":1729000982223,"input":"i 1\ni 2\ni 3\ni 4\ni 5\nx\nx\nq\n","output":"3 1 2\n3 2 1 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\VScode\\C++\\kheap-student\\main.cpp","group":"local","local":true}
